@@ -1,4 +1,4 @@
 # abomisc
-Misc activities
+Repository for test purposes.
 
-# Test git and github features
+Test git and github features
